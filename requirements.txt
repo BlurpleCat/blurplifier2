@@ -1,0 +1,7 @@
+awslambdaric
+black
+discord-interactions
+isort
+pillow
+requests
+pympler

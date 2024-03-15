@@ -1,0 +1,8 @@
+## Editors
+
+.idea/
+.vscode/
+
+## Python
+
+__pycache__/
